@@ -8,7 +8,7 @@ This project is a web-based implementation of the popular Tic Tac Toe game with 
 
 ## Demo
 
-![zdjecie](https://github.com/patrikinho0/Tic-Tac-Toe/assets/115628374/6a2a7bbf-3ddc-4670-9d1d-5cd9b75510ef)
+<img src="demo.PNG">
 
 
 ## Features 🚀

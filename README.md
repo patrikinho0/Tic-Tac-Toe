@@ -25,3 +25,6 @@ To get a local copy up and running, follow these simple steps:
    ```sh
    git clone https://github.com/patrikinho0/Tic-Tac-Toe.git
 2. Launch the project on your device 🚀
+
+<br><br>
+<p align="center">Made by <a href="https://github.com/patrikinho0">patrikinho</a></p>
